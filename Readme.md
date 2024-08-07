@@ -39,9 +39,6 @@
     https://visualstudio.microsoft.com/pt-br/downloads/
     ~~~~
 
-
-    ~~~~
-
 **NOTE:** Download the file and paste on Environment Variable, on C:\Users\your user\AppData\Local\Programs\Python\Python312\Scripts
 
 **Cmd commands:**
@@ -68,3 +65,4 @@ Verifying programs version:
     robot -d ./results .\api_testing_usuarios.robot 
     ~~~~
 
+**API Link**  https://serverest.dev/
